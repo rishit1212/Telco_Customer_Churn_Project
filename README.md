@@ -5,7 +5,7 @@ Key Objectives:-<br />
 Understand the impact of contract types, payment methods, and customer tenure on churn rates.<br /> 
 Identify high-risk customer segments based on demographic and behavioral factors.<br /> 
 Provide data-driven recommendations to reduce churn and improve customer satisfaction.<br /> 
-<br /> <br /> 
+<br /> 
 Insights & Findings:-<br /> 
 Contract Types: Customers with month-to-month contracts have a 42% churn rate, significantly higher than yearly (11%) and two-year contracts (3%).<br /> 
 Payment Methods: Electronic check users are most likely to churn (45%), compared to 15-18% for credit card and bank transfer users.<br /> 
